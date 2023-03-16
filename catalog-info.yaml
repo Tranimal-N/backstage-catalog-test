@@ -1,1 +1,17 @@
-
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-catalog-test
+  description: |
+    Testing data flow
+  links:
+    - title: Tran GitHub
+      url: https://github.com/Tranimal-N
+#   annotations:
+#     github.com/project-slug: backstage/backstage
+#     backstage.io/techdocs-ref: dir:.
+#     lighthouse.com/website-url: https://backstage.io
+spec:
+  type: service
+  owner: Tran
+  lifecycle: experimental
