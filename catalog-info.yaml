@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: backstage-catalog-test
   description: |
-    Testing data flow
+    Changed description to test data flow
   links:
     - title: Tran GitHub
       url: https://github.com/Tranimal-N
