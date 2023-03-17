@@ -13,5 +13,5 @@ metadata:
 #     lighthouse.com/website-url: https://backstage.io
 spec:
   type: service
-  owner: Tran
+  owner: Tran N
   lifecycle: experimental
