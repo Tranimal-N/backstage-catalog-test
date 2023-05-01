@@ -1,0 +1,15 @@
+---
+kind: "Component"
+spec:
+  type: "Service"
+  lifecycle: "Unknown"
+  owner: "Unknown"
+  system: "locust"
+apiVersion: "backstage.io/v1alpha1"
+metadata:
+  name: "locustServiceqhlp"
+  tags: []
+  annotations:
+    harness.io/cd-serviceId: "locustServiceqhlp"
+    harness.io/project-url: "https://stress.harness.io/ng/account/rzjR8UyZTpOAd6SLDfdBuw/home/orgs/default/projects/locust/details"
+
